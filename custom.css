@@ -1,0 +1,27 @@
+.name {
+    margin-top: 50px;
+}
+
+#hey {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 70%;
+}
+
+#hey2 {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 70%;
+}
+
+#t1 {
+    font-variant-numeric: tabular-nums;
+    font-weight: 900;
+    font-style: Fantasy;
+}
